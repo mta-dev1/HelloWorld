@@ -9,5 +9,7 @@ public class HelloWorld {
 		//this comment is good BUT NOW IT IS BETTER!
 	
 	}
-
+	public String myName( ){
+		return( "this is my name");
+	}
 }
