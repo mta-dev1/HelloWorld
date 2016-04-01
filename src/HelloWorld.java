@@ -6,7 +6,7 @@ public class HelloWorld {
 		String x = "Hello World";
 		x += "a bit more stuff too a little harder to merge tho";
 		System.out.println(x);
-		//this comment is good
+		//this comment is good BUT NOW IT IS BETTER!
 	
 	}
 
